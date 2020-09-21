@@ -1,0 +1,46 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_ringtone_player (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - telephony (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_ringtone_player (from `.symlinks/plugins/flutter_ringtone_player/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - telephony (from `.symlinks/plugins/telephony/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  flutter_ringtone_player:
+    :path: ".symlinks/plugins/flutter_ringtone_player/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  telephony:
+    :path: ".symlinks/plugins/telephony/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_local_notifications: 9e4738ce2471c5af910d961a6b7eadcf57c50186
+  flutter_ringtone_player: 15eba85187230b87b2512f0e1b92225618bc03e7
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  telephony: c41768fae9fb5495781b05a72004106ca33ec777
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3

@@ -29,12 +29,9 @@ dependencies:
   fluttertoast: ^3.1.0
   shared_preferences: ^0.5.10
   flutter_ringtone_player: ^2.0.0
-  flutter_local_notifications: ^1.4.4+2
+  flutter_local_notifications: ^1.4.4+4
   workmanager: ^0.2.0
   telephony: ^0.0.2
-  audio_service: ^0.15.0
-  audioplayers: ^0.16.1
-  just_audio: ^0.4.4
 
 dev_dependencies:
   flutter_test:
